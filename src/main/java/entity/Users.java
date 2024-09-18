@@ -4,7 +4,7 @@ import lombok.Data;
 import java.util.Date;
 
 @Data
-public class USERS {
+public class Users {
     private int Id;
     private String Fullname;
     private String Email;

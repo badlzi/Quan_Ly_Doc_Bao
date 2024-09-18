@@ -1,7 +1,7 @@
 package entity;
 import lombok.Data;
 @Data
-public class NEWSLETTERS {
+public class NewsLetters {
     private String Email;
     private Boolean Enabled;
 }
