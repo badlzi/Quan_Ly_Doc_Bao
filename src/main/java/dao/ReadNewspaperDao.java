@@ -2,7 +2,7 @@ package dao;
 
 import java.util.List;
 
-abstract public class read_newspaper_dao<EntityType, KeyType> {
+abstract public class ReadNewspaperDao<EntityType, KeyType> {
     abstract public void insert(EntityType entity);
     abstract public void update(EntityType entity);
     abstract public void delete(KeyType id);

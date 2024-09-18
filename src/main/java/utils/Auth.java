@@ -1,9 +1,9 @@
 package utils;
 
-import entity.USERS;
+import entity.Users;
 
 public class Auth {
-    public static USERS user = null;
+    public static Users user = null;
     //    /**
 //     * Xóa thông tin của người sử dụng khi có yêu cầu đăng xuất
 //     */
